@@ -1,0 +1,26 @@
+{
+  "name": "wikipedia-hide-site-notice",
+  "version": "1.0.0",
+  "description": "Hide the top site-notice in Wikipedia.",
+  "keywords": [
+    "userstyle",
+    "wikipedia"
+  ],
+  "homepage": "https://github.com/rod24574575/wikipedia-hide-site-notice",
+  "bugs": "https://github.com/rod24574575/wikipedia-hide-site-notice/issues",
+  "license": "MIT",
+  "author": "rod24574575 <rod24574575@hotmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rod24574575/wikipedia-hide-site-notice.git"
+  },
+  "scripts": {
+    "bump": "bump package.json wikipedia-hide-site-notice.user.styl -c -a -t",
+    "version": "pnpm install"
+  },
+  "packageManager": "pnpm@8.15.1",
+  "devDependencies": {
+    "version-bump-prompt": "^6.1.0"
+  },
+  "private": true
+}
