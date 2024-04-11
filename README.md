@@ -1,3 +1,7 @@
+# Moved
+
+This repo is already moved to [monorepo](https://github.com/rod24574575/monorepo/tree/main/packages/wikipedia-hide-site-notice).
+
 # Wikipedia Hide Site-Notice
 
 Hide the top site-notice in [Wikipedia](https://www.wikipedia.org/).
